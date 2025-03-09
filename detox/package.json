@@ -33,7 +33,7 @@
     "moment-timezone": "0.5.45",
     "recursive-readdir": "2.2.3",
     "sanitize-filename": "1.6.3",
-    "shelljs": "0.8.5",
+    "shelljs": "0.9.0",
     "tough-cookie": "5.0.0",
     "ts-jest": "29.2.5",
     "tslib": "2.7.0",
